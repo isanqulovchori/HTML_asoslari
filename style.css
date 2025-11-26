@@ -1,0 +1,19 @@
+.header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    justify-content: center;
+    color:blue ;
+}
+.s1 {
+    width: 50px;
+} 
+#m1 {
+    width: 500px;
+}
+.s2 {
+    width: 200px;
+} 
+.m2 {
+    color: green;
+}
